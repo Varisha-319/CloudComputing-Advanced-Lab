@@ -1,0 +1,3 @@
+Cloud computing provides on-demand computing services over the internet.
+It eliminates the need to maintain physical servers and infrastructure.
+It offers high scalability, flexibility, and cost savings for users.
